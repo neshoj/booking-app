@@ -1,0 +1,23 @@
+
+6
+go.mod,c\4\c47645c391ad0571c40779079363c9d48412e18b
+7
+main.go,0\6\0607f785dfa3c3861b3239f6723eb276d8056461
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+w
+G.idea/sonarlint/issuestore/0/6/0607f785dfa3c3861b3239f6723eb276d8056461,6\0\60772b7c741c4affc0a3bee15e3cd3a47510d06d
+w
+G.idea/sonarlint/issuestore/c/4/c47645c391ad0571c40779079363c9d48412e18b,8\5\85487fc2ba5c65f3978510d5f9cefbeb666dfda9
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+Å
+Q.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,1\0\10a03f31c4dce92cb371e761ce9429428bb6c176
+Å
+Q.idea/sonarlint/securityhotspotstore/0/6/0607f785dfa3c3861b3239f6723eb276d8056461,f\6\f60db878b6bcb7e683507b1bb54d4c3b62a00d4b
+Å
+Q.idea/sonarlint/securityhotspotstore/c/4/c47645c391ad0571c40779079363c9d48412e18b,6\9\69f11ccf63db45c2a32a6c13fff4c2a7d08b8d3f
+w
+G.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,b\4\b4a0b63ce8560bbc5de0f9995c20cc861dc2adb3
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
