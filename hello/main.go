@@ -20,4 +20,14 @@ func main() {
 	}
 
 	fmt.Println(message)
+
+	names := []string{"Gladys", "Samantha", "Darrin"}
+	salams, err := greetings.Hellos(names)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	for _, salam := range salams {
+		fmt.Println(salam)
+	}
 }
