@@ -21,3 +21,9 @@ w
 G.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,b\4\b4a0b63ce8560bbc5de0f9995c20cc861dc2adb3
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+7
+.ignore,a\b\abd6d38837e90ded015d7ce0f0593287d1ce6b26
+F
+greetings/greetings.go,6\6\66efd002b2d2a5b54dbb6761702b2861fd38e806
+=
+hello/main.go,2\3\233876fd3567ee5a689ad8d22264febb25a9c6cc
